@@ -1,0 +1,14 @@
+# venv
+venv/
+
+# .env
+.env
+
+# .env.local
+.env.local
+
+# .env.development.local
+.env.development.local
+
+# .env.test.local
+.env.test.local
